@@ -1,4 +1,0 @@
-deploy:
-  type: git
-  repository: https://github.com/Chocolate-Lee/Chocolate-Lee.github.io.git
-  branch: master
