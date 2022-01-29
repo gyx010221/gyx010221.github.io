@@ -1,4 +1,0 @@
-deploy:
-  type: git
-  repository: https://github.com/gyx010221/gyx010221.github.io.git
-  branch: master
